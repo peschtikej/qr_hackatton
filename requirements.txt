@@ -1,0 +1,6 @@
+numpy==2.2.4
+opencv-python==4.11.0.86
+pip3-autoremove==1.2.2
+pyzbar==0.1.9
+setuptools==78.1.0
+typing_extensions==4.13.2
